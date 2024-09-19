@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Kieran Egan! 👋
 
-<!--
-**Kieran-Egan/Kieran-Egan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 
-Here are some ideas to get you started:
+Computer Engineering Student | Aspiring Quantum Algorithms Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m currently pursuing a degree in Computer Engineering at the University of Kansas.
+
+### 🔧 Technologies & Tools
+
+### 🚀 Featured Projects
+
+### 📊 GitHub Stats
+
+### 🤝 Let's Connect
