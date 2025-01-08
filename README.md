@@ -23,7 +23,6 @@ Welcome to my GitHub! I’m currently a **Computer Engineering** student at the 
 ---
 
 ### 📊 GitHub Stats
-![Kieran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KieranEgan&show_icons=true&theme=radical)
 
 ---
 
