@@ -29,4 +29,3 @@ Welcome to my GitHub! I’m currently a **Computer Engineering** student at the 
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kieran-fo-egan/)  
-Feel free to reach out if you’d like to collaborate or chat about **quantum hardware**, **engineering challenges**, or **tech innovations**! 🚀
