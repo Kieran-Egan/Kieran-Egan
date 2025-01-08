@@ -15,8 +15,10 @@ Welcome to my GitHub! I’m currently a **Computer Engineering** student at the 
 ---
 
 ### 🚀 Featured Projects
-#### 🧠 **Quantum PDE Solver**  
-Part of the KU Advanced Reconfigurable and Quantum Computing (KUARQ) Research Group. Focused on using **quantum algorithms** to solve **partial differential equations** and exploring **genetic algorithms** for quantum state preparation.
+#### 🧠 **Simmul**  
+
+#### 🧠 **Quantum GA's**  
+
 
 ---
 
