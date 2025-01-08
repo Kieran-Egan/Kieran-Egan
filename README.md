@@ -1,4 +1,4 @@
-# Hi, I'm Kieran Egan! 👋
+# Hi, I'm Kieran Egan!
 
 ### 💻 Computer Engineering Student | Aspiring Quantum Hardware Engineer
 
