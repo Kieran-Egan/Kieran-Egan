@@ -15,9 +15,9 @@ Welcome to my GitHub! I’m currently a **Computer Engineering** student at the 
 ---
 
 ### 🚀 Featured Projects
-#### 🧠 **Simmul**  
+#### **Simmul**  
 
-#### 🧠 **Quantum GA's**  
+#### **Quantum GA's**  
 
 
 ---
