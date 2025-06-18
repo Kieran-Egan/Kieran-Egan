@@ -2,7 +2,7 @@
 
 ### 💻 Computer Engineering Student | Aspiring Quantum Hardware Engineer
 
-Welcome to my GitHub! I’m currently a **Computer Engineering** student at the **University of Kansas**, driven by a passion for **quantum computing**.
+Welcome to my GitHub! I’m currently a Computer Engineering student at the University of Kansas, driven by a passion for quantum computing.
 
 ---
 
