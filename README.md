@@ -1,7 +1,5 @@
 # Hi, I'm Kieran Egan!
 
-### Computer Engineering Undergraduate
-
 Welcome to my GitHub! I’m currently a Computer Engineering student in my senior year at the University of Kansas.
 
 ---
